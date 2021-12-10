@@ -1,0 +1,16 @@
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\bin\Debug\ReconocimientoFacialDCU.exe.config
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\bin\Debug\ReconocimientoFacialDCU.exe
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\bin\Debug\ReconocimientoFacialDCU.pdb
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\bin\Debug\es-419\ReconocimientoFacialDCU.resources.dll
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\obj\Debug\ReconocimientoFacialDCU.csproj.AssemblyReference.cache
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\obj\Debug\ReconocimientoFacialDCU.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\obj\Debug\ReconocimientoFacialDCU.Form1.resources
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\obj\Debug\ReconocimientoFacialDCU.frmRgistrar.resources
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\obj\Debug\ReconocimientoFacialDCU.Properties.Resources.resources
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\obj\Debug\ReconocimientoFacialDCU.frmRgistrar.es-419.resources
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\obj\Debug\ReconocimientoFacialDCU.csproj.GenerateResource.cache
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\obj\Debug\ReconocimientoFacialDCU.csproj.CoreCompileInputs.cache
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\obj\Debug\es-419\ReconocimientoFacialDCU.resources.dll
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\obj\Debug\ReconocimientoFacialDCU.csproj.CopyComplete
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\obj\Debug\ReconocimientoFacialDCU.exe
+C:\Users\moise\OneDrive\Clases ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Proyecto Final\ReconocimientoFacialDCU\ReconocimientoFacialDCU\obj\Debug\ReconocimientoFacialDCU.pdb
